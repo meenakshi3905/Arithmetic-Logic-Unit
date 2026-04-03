@@ -1,2 +1,5 @@
-# Arithmetic-Logic-Unit
-Designed an ALU using the verilog code and simulated using EDA tool and verified using testbench.
+ Company:CODTECH IT SOLUTIONS PVT.LTD
+Name of Candidate:Sanagla Meenakshi
+Domain: VLSI
+Duration:4 weeks
+Intern ID:CTIS7429
